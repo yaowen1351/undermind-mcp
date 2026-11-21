@@ -1,0 +1,12 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/yaowen1351/undermind-mcp@main/client-metadata.json",
+  "client_name": "DeepSeek Harness",
+  "client_uri": "https://github.com/yaowen1351/undermind-mcp",
+  "redirect_uris": [
+    "http://127.0.0.1:3334/oauth/callback"
+  ],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp"
+}
